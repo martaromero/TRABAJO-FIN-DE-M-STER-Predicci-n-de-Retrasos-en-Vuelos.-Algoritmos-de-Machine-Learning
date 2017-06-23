@@ -7,5 +7,5 @@ a la creación de un sistema de predicción de retrasos basado en tres enfoques:
   2.- Clasificación multiclase
   3.- Regresión
 
-Además, en la carpeta ANEXOS se incluye cada uno de los ficheros en formato .py con el código utilizado para la elaboración del estudio
+Además, a modo de Anexo, se incluye cada uno de los ficheros en formato .py con el código utilizado para la elaboración del estudio
 (incluyendo algoritmos y modelos). Cada Anexo está explicado y referenciado en la memoria del proyecto.
